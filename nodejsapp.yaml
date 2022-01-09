@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: nodejs-app
-        image: "docker.io/7769068855/jenkins-docker-kubernetes:jenkins-docker-kubernete"
+        image: "docker.io/7769068855/jenkins-docker-kubernetes:jenkins-docker-kubernetes"
         ports:
           - containerPort: 3000
 ---
